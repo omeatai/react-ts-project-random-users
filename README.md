@@ -108,9 +108,9 @@ yarn global add {package}
 # #End</details>
 
 <details>
-<summary>2. Creating States to store mapped dummy data </summary>
+<summary>2. Creating States to store dummy Data </summary>
 
-# Creating States to store mapped dummy data
+# Creating States to store dummy Data
 
 ```x
 
