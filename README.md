@@ -108,11 +108,9 @@ yarn global add {package}
 # #End</details>
 
 <details>
-<summary>2. Install Dependencies for Backend </summary>
+<summary>2. Creating States to store mapped dummy data </summary>
 
-# Install Dependencies for Backend
-
-# Create Backend Folder
+# Creating States to store mapped dummy data
 
 ```x
 
